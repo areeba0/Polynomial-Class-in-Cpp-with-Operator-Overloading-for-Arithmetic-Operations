@@ -1,0 +1,2 @@
+# Polynomial-Class-in-Cpp-with-Operator-Overloading-for-Arithmetic-Operations
+This  C++ code is an implementation of a Polynomial class that supports arithmetic operations (+ and -) and comparison (==) using operator overloading. The Polynomial class allows users to create polynomials of varying degrees, and input coefficients, perform basic arithmetic operations, and compare polynomials for equality.
